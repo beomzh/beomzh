@@ -93,10 +93,11 @@
 
 ## Tech Stack
 
-**Container & Orchestration**
+**Container & Orchestration** _(★ OpenShift 주력)_
 
 <p>
   <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift"/>
+  <img src="https://img.shields.io/badge/OpenShift_Virtualization-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift Virtualization"/>
   <img src="https://img.shields.io/badge/RKE2-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="RKE2"/>
   <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
@@ -118,6 +119,31 @@
   <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS"/>
   <img src="https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Google Cloud"/>
 </p>
+
+**Automation / IaC**
+
+<p>
+  <img src="https://img.shields.io/badge/Ansible-EE0000?style=for-the-badge&logo=ansible&logoColor=white" alt="Ansible"/>
+</p>
+
+**Auth / Identity**
+
+<p>
+  <img src="https://img.shields.io/badge/Keycloak-4D4D4D?style=for-the-badge&logo=keycloak&logoColor=white" alt="Keycloak"/>
+  <img src="https://img.shields.io/badge/Google_OIDC-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google OIDC"/>
+  <img src="https://img.shields.io/badge/OAuth2--Proxy-000000?style=for-the-badge" alt="OAuth2 Proxy"/>
+</p>
+
+<br/>
+
+## Certifications
+
+<p>
+  <img src="https://img.shields.io/badge/CKA-Certified_Kubernetes_Administrator-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="CKA"/>
+</p>
+
+- **CKA** (Certified Kubernetes Administrator) — Linux Foundation, 2024.03
+- **무선설비기사** — 한국방송통신전파진흥원, 2022.09
 
 <br/>
 
