@@ -8,6 +8,10 @@
   <img src="https://img.shields.io/badge/Focus-Legacy%20to%20Cloud%20Migration-6A5ACD?style=flat-square" alt="Focus: Legacy to Cloud Migration"/>
 </p>
 
+<a href="https://portfolio-wine-mu-83.vercel.app" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-바로가기-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+</a>
+
 </div>
 
 <br/>
@@ -163,6 +167,9 @@
 ## Contact
 
 <p>
+  <a href="https://portfolio-wine-mu-83.vercel.app" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
   <a href="mailto:kimjm3435@gmail.com">
     <img src="https://img.shields.io/badge/Email-kimjm3435%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
