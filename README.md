@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA6DA&center=true&vCenter=true&width=600&lines=Cloud+Engineer+%40+OpenShift+(OCP);Legacy-to-Cloud+Migration+Specialist;Private+Cloud+%2F+On-Prem+Platform;Always+Building%2C+Always+Learning" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=2EA6DA&center=true&vCenter=true&width=600&lines=Cloud+%2F+Platform+Engineer;Kubernetes+%26+Container+Platform;Legacy-to-Cloud+Migration+Specialist;Always+Building%2C+Always+Learning" alt="Typing SVG" />
 
 <p>
-  <img src="https://img.shields.io/badge/Focus-OpenShift%20(OCP)-EE0000?style=flat-square" alt="Focus: OpenShift"/>
-  <img src="https://img.shields.io/badge/Focus-Private%20Cloud-2EA6DA?style=flat-square" alt="Focus: Private Cloud"/>
+  <img src="https://img.shields.io/badge/Focus-Cloud%20Platform%20Engineering-2EA6DA?style=flat-square" alt="Focus: Cloud Platform Engineering"/>
+  <img src="https://img.shields.io/badge/Focus-Kubernetes%20%2F%20Container-326CE5?style=flat-square" alt="Focus: Kubernetes/Container"/>
   <img src="https://img.shields.io/badge/Focus-Legacy%20to%20Cloud%20Migration-6A5ACD?style=flat-square" alt="Focus: Legacy to Cloud Migration"/>
 </p>
 
@@ -18,20 +18,20 @@
 
 ## 소개
 
-**OpenShift Container Platform(OCP)** 을 주력으로 다루는 클라우드 엔지니어입니다.
+**Kubernetes 기반 컨테이너 플랫폼**을 중심으로 다루는 클라우드/플랫폼 엔지니어입니다.
 프라이빗(On-Prem) 클라우드 환경에 강점이 있으며, **레거시 시스템을 컨테이너/클라우드 환경으로 전환**하는 프로젝트를 주로 수행해왔습니다.
 
-- **Legacy → Cloud 전환**: 기존 WAS(JBoss/Tomcat) 기반 레거시 애플리케이션을 OCP 위로 컨테이너화·이관
-- **OCP 중심 플랫폼 운영**: OpenShift Container Platform 구축·운영 및 클러스터 설계
+- **Legacy → Cloud 전환**: 기존 WAS(JBoss/Tomcat) 기반 레거시 애플리케이션의 컨테이너화·이관
+- **컨테이너 플랫폼 구축·운영**: Kubernetes 기반 플랫폼(OpenShift, RKE2 등) 설계·구축·운영 및 클러스터 관리
 - **Private Cloud 강점**: On-Prem/사내 인프라 환경에서의 플랫폼 설계 및 운영 경험
-- RKE2 / Rancher / Helm 기반 인프라 자동화
+- Rancher / Helm 기반 인프라 자동화, 퍼블릭 클라우드(AWS/GCP) 연동 경험
 
 
 <br/>
 
 ## Project Experience
 
-> 공공·금융·통신·에너지 도메인에서 OpenShift(OCP) 기반 프라이빗 클라우드 구축·운영과 레거시→클라우드 전환을 수행했습니다.
+> 공공·금융·통신·에너지 도메인에서 Kubernetes 기반 프라이빗 클라우드 구축·운영과 레거시→클라우드 전환을 수행했습니다.
 > (고객사명은 보안상 도메인으로 표기)
 
 #### 금융권 Private Cloud — OpenShift 재구축 & 블루/그린 마이그레이션
@@ -97,16 +97,16 @@
 
 ## Tech Stack
 
-**Container & Orchestration** _(★ OpenShift 주력)_
+**Container & Orchestration**
 
 <p>
-  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift"/>
-  <img src="https://img.shields.io/badge/OpenShift_Virtualization-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift Virtualization"/>
-  <img src="https://img.shields.io/badge/RKE2-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="RKE2"/>
-  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/>
   <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white" alt="Kubernetes"/>
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker"/>
   <img src="https://img.shields.io/badge/Helm-0F1689?style=for-the-badge&logo=helm&logoColor=white" alt="Helm"/>
+  <img src="https://img.shields.io/badge/Rancher-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="Rancher"/>
+  <img src="https://img.shields.io/badge/RKE2-0075A8?style=for-the-badge&logo=rancher&logoColor=white" alt="RKE2"/>
+  <img src="https://img.shields.io/badge/OpenShift-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift"/>
+  <img src="https://img.shields.io/badge/OpenShift_Virtualization-EE0000?style=for-the-badge&logo=redhatopenshift&logoColor=white" alt="OpenShift Virtualization"/>
 </p>
 
 **Middleware / WAS**
